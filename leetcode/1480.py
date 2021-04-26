@@ -1,3 +1,7 @@
+"""
+first clear date : 2021-04-26
+need to improve efficiency
+"""
 class Solution:
     def runningSum(self, nums: List[int]) -> List[int]:
         answer = []
